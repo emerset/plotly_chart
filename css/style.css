@@ -1,0 +1,11 @@
+* Generate a dark background with light colored text */
+body {
+
+    color: #f7f7f7;
+  }
+/* create an entry that will style the jumbotron element. */
+.jumbotron {
+    background-image: url("../images/bacteria.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
